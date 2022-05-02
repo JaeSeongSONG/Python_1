@@ -27,4 +27,4 @@
 - jupyter notebook을 활용한 데이터 분석
 
 7day
-- Numpy와 
+- Numpy와 함수
